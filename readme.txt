@@ -7,4 +7,4 @@ It is a python program to download video from Bilibili. Execute the <executeMeTo
 --You need to download ffmpeg and put it to PATH before use it.
 
 
-20/1/2024 KiraQueen
+20/1/2024 StrikeAtZeroHour
